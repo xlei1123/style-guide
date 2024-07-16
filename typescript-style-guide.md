@@ -57,4 +57,3 @@ export function getListData(params: Params): Promise<ListItem[]> {
 3) [建议]不要在全局命名空间内定义类型/值
 4) [建议]为函数，接口，枚举类型和类使用JSDoc风格的注释
 5) [建议]使用arrow函数代替匿名函数表达式
-6) 
